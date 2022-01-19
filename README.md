@@ -1,6 +1,6 @@
 # Built for Covid19 Hackathon
                    COVID-19 HACKATHON 
-
+Merge conflict
 Team: 4Witchers 
 
 Team Members:   Anuraj Bhandari (Team leader) 
